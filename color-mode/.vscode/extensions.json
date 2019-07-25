@@ -19,6 +19,7 @@
     "visualstudioexptteam.vscodeintellicode",
     "coenraads.bracket-pair-colorizer-2",
     "johnpapa.winteriscoming",
-    "pkief.material-icon-theme"
+    "pkief.material-icon-theme",
+    "pflannery.vscode-versionlens"
   ]
 }
