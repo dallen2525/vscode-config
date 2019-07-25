@@ -49,7 +49,7 @@ I have provided 3 different configurations. They are more or less just different
 
 #### Light Mode
 
-I used to default to dark mode for development. It almost exokes this sensation of being a hacker (I know; lame). However, I watched a [YouTube video](https://www.youtube.com/watch?v=bCaFRN3aaP8) that talked about whether dark mode is really better for us. 
+I used to default to dark mode for development. It almost evokes this sensation of being a hacker (I know; lame). However, I watched a [YouTube video](https://www.youtube.com/watch?v=bCaFRN3aaP8) that talked about whether dark mode is really better for us. 
 
 In summary: When you are doing tasks that require a lot of focus on text; It is actually better to use light mode themes. Using dark mode makes it more straining for our eyes to focus on text. After a long day of coding this can result it fatigue. I decided to find a good light mode setup which had good color contrast. The result is my light mode setup which is now my default configuration for projects that I work in the most.
 
@@ -127,6 +127,8 @@ Guides are the vertical lines that provide further clarity to where something op
 - **Shades of Purple** *used for color mode*: See the theme section regarding Color Mode.
 
 - **TSLint** *must have*: TypeScript is great and if you are writing it then you should be linting it. 
+
+- **Version Lens** *nice to have**: When working on personal projects I like to keep all dependencies up-to-date. This helps visualize that and add context right inside of your package.json. For enterprise projects this is less of a concern since you likely wont be updating your dependencies constantly. 
 
 - **Visual Studio IntelliCode**: Honestly, I saw this recently. Thought it looked and sounded good. Take it or leave it.
 
