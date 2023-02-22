@@ -1,19 +1,24 @@
 {
-	"workbench.iconTheme": "material-icon-theme",
-	"workbench.editor.highlightModifiedTabs": true,
-	"workbench.editor.labelFormat": "short",
-	"editor.defaultFormatter": "esbenp.prettier-vscode",
-	"editor.formatOnSave": true,
-	"editor.codeActionsOnSave": {
-		"source.fixAll": true
-	},
-	"editor.tabSize": 2,
-	"editor.detectIndentation": true,
-	"[prisma]": {
-		"editor.defaultFormatter": "Prisma.prisma"
-	},
-	"material-icon-theme.folders.associations": {
-		"metal": "Components"
-	},
-	"explorer.compactFolders": false
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Atom One Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.labelFormat": "short",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.linkedEditing": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.tabSize": 2,
+  "editor.detectIndentation": true,
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "material-icon-theme.folders.associations": {
+    "metal": "Components"
+  },
+  "explorer.compactFolders": false
 }
