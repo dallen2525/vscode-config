@@ -1,0 +1,20 @@
+{
+	"recommendations": [
+		"pkief.material-icon-theme",
+		"eamodio.gitlens",
+		"esbenp.prettier-vscode",
+		"dbaeumer.vscode-eslint",
+		"christian-kohler.path-intellisense",
+		"graphql.vscode-graphql",
+		"prisma.prisma",
+		"csstools.postcss",
+		"bradlc.vscode-tailwindcss",
+		"pflannery.vscode-versionlens",
+		"svelte.svelte-vscode",
+		"visualstudioexptteam.vscodeintellicode",
+		"formulahendry.auto-rename-tag",
+		"yzhang.markdown-all-in-one",
+		"davidanson.vscode-markdownlint",
+		"mikestead.dotenv"
+	]
+}
