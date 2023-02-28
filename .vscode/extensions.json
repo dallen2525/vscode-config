@@ -21,6 +21,8 @@
     "ms-azuretools.vscode-docker",
     "aaron-bond.better-comments",
     "quicktype.quicktype",
-    "github.vscode-pull-request-github"
+    "github.vscode-pull-request-github",
+    "ardenivanov.svelte-intellisense",
+    "fivethree.vscode-svelte-snippets"
   ]
 }
