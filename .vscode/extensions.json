@@ -23,6 +23,7 @@
     "quicktype.quicktype",
     "github.vscode-pull-request-github",
     "ardenivanov.svelte-intellisense",
-    "fivethree.vscode-svelte-snippets"
+    "fivethree.vscode-svelte-snippets",
+    "moalamri.inline-fold"
   ]
 }
