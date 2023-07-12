@@ -24,6 +24,9 @@
     "github.vscode-pull-request-github",
     "ardenivanov.svelte-intellisense",
     "fivethree.vscode-svelte-snippets",
-    "moalamri.inline-fold"
+    "moalamri.inline-fold",
+    "bungcip.better-toml",
+    "uniquevision.vscode-plpgsql-lsp",
+    "bradymholt.pgformatter"
   ]
 }
